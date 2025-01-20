@@ -1,0 +1,36 @@
+body {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://deusmedibre.com.br/site2023/wp-content/uploads/2019/02/flamengoluto.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+
+h1 {
+    color: crimson;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 20px;   
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px 2px crimson;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+}
